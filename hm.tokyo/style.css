@@ -1,0 +1,29 @@
+.main{
+    font-size: 35px;
+}
+
+.FOOTER{
+    font-size:50px ;
+}
+
+body{
+    background-color: rgba(73, 17, 110, 0.601);
+}
+
+h1{
+    font-size: 55px;
+}
+
+body{
+    color: rgb(127, 8, 8);
+    font-style: oblique;
+}
+
+p{
+    width: 1000px;}
+
+.revenge{
+    position: relative;
+    left:100px;
+    bottom: 70px;
+}
